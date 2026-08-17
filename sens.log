@@ -1,0 +1,17 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::loadLibrary has been called by com.gurobi.gurobi.GurobiJni in an unnamed module (file:/C:/gurobi1301/win64/lib/gurobi.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2780922
+Academic license 2780922 - for non-commercial use only - registered to ah___@khas.edu.tr
+sensitivity base                 cost=78012.87 voyage=127.78
+sensitivity fuel_cost_+20%       cost=80837.70 voyage=127.78
+sensitivity charter_-15%         cost=68429.56 voyage=127.78
+sensitivity pump_rate_+30%       cost=75666.52 voyage=123.22
+sensitivity consumption_+10%     cost=78636.33 voyage=128.42
+sensitivity consumption_-25%     cost=76466.88 voyage=126.18
+sensitivity dispatch_delay_10d   cost=132346.77 voyage=148.81
+Bitti. CSV ciktilari: results/

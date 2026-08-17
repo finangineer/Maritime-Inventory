@@ -1,0 +1,85 @@
+=== [1/3] baselines basliyor: Sun Aug  2 16:15:11 TST 2026 ===
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::loadLibrary has been called by com.gurobi.gurobi.GurobiJni in an unnamed module (file:/C:/gurobi1301/win64/lib/gurobi.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2780922
+Academic license 2780922 - for non-commercial use only - registered to ah___@khas.edu.tr
+baselines n=5 seed=1 greedy=192024 optsplit=95452 nn=196339
+baselines n=5 seed=2 greedy=112684 optsplit=112684 nn=112684
+baselines n=5 seed=3 greedy=270724 optsplit=194045 nn=270724
+baselines n=5 seed=4 greedy=732082 optsplit=589477 nn=732082
+baselines n=5 seed=5 greedy=170355 optsplit=170355 nn=170355
+baselines n=5 seed=6 greedy=196724 optsplit=121575 nn=196724
+baselines n=5 seed=7 greedy=672627 optsplit=672627 nn=672627
+baselines n=5 seed=8 greedy=1464796 optsplit=1464796 nn=1464796
+baselines n=5 seed=9 greedy=160070 optsplit=143754 nn=160070
+baselines n=5 seed=10 greedy=170869 optsplit=170869 nn=176236
+baselines n=6 seed=1 greedy=530294 optsplit=530294 nn=852616
+baselines n=6 seed=2 greedy=1756654 optsplit=1756654 nn=1698791
+baselines n=6 seed=3 greedy=201206 optsplit=201206 nn=201206
+baselines n=6 seed=4 greedy=700699 optsplit=700699 nn=700699
+baselines n=6 seed=5 greedy=187060 optsplit=120748 nn=187060
+baselines n=6 seed=6 greedy=556395 optsplit=479203 nn=556395
+baselines n=6 seed=7 greedy=593382 optsplit=593382 nn=593382
+baselines n=6 seed=8 greedy=372168 optsplit=372168 nn=372168
+baselines n=6 seed=9 greedy=172340 optsplit=172340 nn=172340
+baselines n=6 seed=10 greedy=215101 optsplit=215101 nn=372166
+baselines n=7 seed=1 greedy=477167 optsplit=239854 nn=477167
+baselines n=7 seed=2 greedy=1700380 optsplit=1584090 nn=1552701
+baselines n=7 seed=3 greedy=740679 optsplit=328528 nn=740679
+baselines n=7 seed=4 greedy=2520081 optsplit=2520081 nn=2520081
+baselines n=7 seed=5 greedy=765477 optsplit=561656 nn=765477
+baselines n=7 seed=6 greedy=720352 optsplit=701627 nn=720352
+baselines n=7 seed=7 greedy=906815 optsplit=715454 nn=906815
+baselines n=7 seed=8 greedy=394915 optsplit=394915 nn=394915
+baselines n=7 seed=9 greedy=759233 optsplit=759233 nn=399638
+baselines n=7 seed=10 greedy=694142 optsplit=677307 nn=506540
+baselines n=8 seed=1 greedy=802632 optsplit=705985 nn=802632
+baselines n=8 seed=2 greedy=734253 optsplit=662672 nn=1408056
+baselines n=8 seed=3 greedy=1156144 optsplit=809058 nn=1156144
+baselines n=8 seed=4 greedy=1128077 optsplit=609057 nn=534302
+baselines n=8 seed=5 greedy=647112 optsplit=506814 nn=647112
+baselines n=8 seed=6 greedy=888647 optsplit=888647 nn=896397
+baselines n=8 seed=7 greedy=2033131 optsplit=2033131 nn=1977837
+baselines n=8 seed=8 greedy=3330077 optsplit=3330077 nn=3330077
+baselines n=8 seed=9 greedy=166521 optsplit=166521 nn=538318
+baselines n=8 seed=10 greedy=3798863 optsplit=3356757 nn=3798863
+baselines n=10 seed=1 greedy=995323 optsplit=981999 nn=1151173
+baselines n=10 seed=2 greedy=1871972 optsplit=1871972 nn=1871972
+baselines n=10 seed=3 greedy=1689370 optsplit=1587577 nn=1647765
+baselines n=10 seed=4 greedy=5063032 optsplit=5063032 nn=5962506
+baselines n=10 seed=5 greedy=1930998 optsplit=1775622 nn=1930998
+baselines n=10 seed=6 greedy=1528589 optsplit=1528589 nn=1894301
+baselines n=10 seed=7 greedy=2311406 optsplit=2182107 nn=2118958
+baselines n=10 seed=8 greedy=1176222 optsplit=1176222 nn=1019405
+baselines n=10 seed=9 greedy=2351115 optsplit=2307406 nn=2052245
+baselines n=10 seed=10 greedy=1750826 optsplit=1750826 nn=1750826
+baselines n=12 seed=1 greedy=5752170 optsplit=4950065 nn=5518195
+baselines n=12 seed=2 greedy=3457933 optsplit=3457933 nn=4422210
+baselines n=12 seed=3 greedy=1169884 optsplit=922389 nn=896095
+baselines n=12 seed=4 greedy=7538697 optsplit=7538697 nn=9461615
+baselines n=12 seed=5 greedy=2723422 optsplit=2531657 nn=2715066
+baselines n=12 seed=6 greedy=3016372 optsplit=3016372 nn=3003330
+baselines n=12 seed=7 greedy=6898848 optsplit=6898848 nn=6754894
+baselines n=12 seed=8 greedy=3785823 optsplit=3650081 nn=3785823
+baselines n=12 seed=9 greedy=1228108 optsplit=1228108 nn=2485547
+baselines n=12 seed=10 greedy=6387465 optsplit=5352466 nn=4863962
+Bitti. CSV ciktilari: results/
+=== [2/3] capacity_grid basliyor: Sun Aug  2 21:36:02 TST 2026 ===
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::loadLibrary has been called by com.gurobi.gurobi.GurobiJni in an unnamed module (file:/C:/gurobi1301/win64/lib/gurobi.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2780922
+Academic license 2780922 - for non-commercial use only - registered to ah___@khas.edu.tr
+Bitti. CSV ciktilari: results/
+=== baselines.csv icinde NA gecen satir sayisi: 30 ===
+!!! DURDURULDU: NA sayisi yuksek (30). scaling BASLATILMADI.
+!!! Sabah baselines.csv dosyasini Claude'a gonderin.

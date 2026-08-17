@@ -1,0 +1,15 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::loadLibrary has been called by com.gurobi.gurobi.GurobiJni in an unnamed module (file:/C:/gurobi1301/win64/lib/gurobi.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2780922
+Academic license 2780922 - for non-commercial use only - registered to ah___@khas.edu.tr
+rank k=1 incap=78012.87 cap=250093.72
+rank k=2 incap=85733.98 cap=270225.31
+rank k=3 incap=91375.48 cap=178206.63
+rank k=4 incap=98547.52 cap=251506.73
+rank k=5 incap=99227.68 cap=185476.99
+Bitti. CSV ciktilari: results/
